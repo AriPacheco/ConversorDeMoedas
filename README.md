@@ -6,7 +6,7 @@
 
 
 
-(https://exemplo.com/logo.png)
+
 https://conversoremoedas.netlify.app/
 
 ### 🛠 Tecnologias
